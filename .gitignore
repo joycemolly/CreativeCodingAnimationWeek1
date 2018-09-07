@@ -1,0 +1,4 @@
+s*.DS_Store
+**/**/*.make
+**/**/Makefile
+**/**/bin/*.app
